@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 
             features = "src/test/resources/features",
             glue = "com/adidas/stepdefinitions",
-            dryRun = true,
+            dryRun = false,
             tags = ""
 
 
