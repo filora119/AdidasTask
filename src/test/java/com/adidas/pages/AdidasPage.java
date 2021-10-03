@@ -2,6 +2,7 @@ package com.adidas.pages;
 
 import com.adidas.utilities.BrowserUtils;
 import com.adidas.utilities.Driver;
+import com.github.javafaker.Faker;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -119,4 +120,4 @@ public class AdidasPage {
 
 
 }
-}
+
